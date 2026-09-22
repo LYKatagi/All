@@ -34,8 +34,8 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/LYKatagi/all"
-Repository = "https://github.com/LYKatagi/all"
+Homepage = "https://github.com/LYKatagi/All"
+Repository = "https://github.com/LYKatagi/All"
 
 [tool.setuptools]
 package-dir = { "" = "src" }
