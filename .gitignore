@@ -1,0 +1,70 @@
+# Python
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Virtual environments
+
+.venv/
+venv/
+env/
+ENV/
+
+# Testing
+
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+
+# Type checking
+
+.mypy_cache/
+.pyre/
+.pytype/
+
+# Linters / formatters
+
+.ruff_cache/
+
+# IDEs / editors
+
+.vscode/
+.idea/
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# Python tooling
+
+pip-wheel-metadata/
+
+# Local environment
+
+.env
+.env.*
+
+# Temporary files
+
+*.tmp
+*.temp
+*.log
+*.swp
+*.swo
+*~
+
+# Project-specific
+
+.cache/
